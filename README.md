@@ -8,8 +8,8 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
  
 The goal of this script is to output a Tidy file.
-Tidy: Each variable is in its own column
-Each observation, or case, is in its own row
+Tidy: *Each variable is in its own column.
+*Each observation, or case, is in its own row
 
 Task: 
 1.Merges the training and the test sets to create one data set.
@@ -18,9 +18,8 @@ Task:
 4.Appropriately labels the data set with descriptive variable names.
 5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-
 To run this script. Make sure you have downloaded the zip file first, either in R or via wget or other means.
-source('./run_analysis.R')
+Example: source('./run_analysis.R')
 
 This should produce a Tidy version of the data for 30 individuals with 6 oberservations pr individual.
 The dataset is filtered to only include mean and standard deviation columns.
