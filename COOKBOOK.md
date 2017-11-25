@@ -104,5 +104,4 @@ Variables used:
 |angle(tBodyGyroJerkMean,gravityMean)|
 |angle(X,gravityMean)|
 |angle(Y,gravityMean)|
-|angle(Z,gravityMean)
-
+|angle(Z,gravityMean)|
