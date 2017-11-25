@@ -1,9 +1,11 @@
-# Week-4-Assignment
+# Week 4 Assignment: Getting and Cleaning data
 
 This script will load, merge and clean training data in the dataset that can be downloaded here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 Description of the dataset can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
  
 The goal of this script is to output a Tidy file.
 Tidy: Each variable is in its own column
@@ -21,4 +23,4 @@ To run this script. Make sure you have downloaded the zip file first, either in 
 source('./run_analysis.R')
 
 This should produce a Tidy version of the data for 30 individuals with 6 oberservations pr individual.
-The dataset is filtered to only include mean and 
+The dataset is filtered to only include mean and standard deviation columns.
