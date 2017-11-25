@@ -2,8 +2,9 @@
 
 This dataset contains 6 observations for 30 individuals.
 
-##Activity:
-| ID       | VALUE
+## Activity:
+
+| ID       | VALUE |
 | ------------- |:-------------:| 
 |1 |           WALKING|
 |2 |   WALKING_UPSTAIRS|
