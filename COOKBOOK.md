@@ -16,21 +16,22 @@ This dataset contains 6 observations for 30 individuals.
 
 Variables used:
 
-| COLUMN NAME|
-|Subject|
-|Activity|
-|tBodyAcc-mean-X|
-|tBodyAcc-mean-Y|
-|tBodyAcc-mean-Z|
-|tBodyAcc-std-X|
-|tBodyAcc-std-Y|
-|tBodyAcc-std-Z|
-|tGravityAcc-mean-X|
-|tGravityAcc-mean-Y|
-|tGravityAcc-mean-Z|
-|tGravityAcc-std-X|
-|tGravityAcc-std-Y|
-|tGravityAcc-std-Z|
+| COLUMN NAME   |
+| :------------- |
+|Subject |
+|Activity |
+|tBodyAcc-mean-X |
+|tBodyAcc-mean-Y |
+|tBodyAcc-mean-Z |
+|tBodyAcc-std-X |
+|tBodyAcc-std-Y |
+|tBodyAcc-std-Z |
+|tGravityAcc-mean-X |
+|tGravityAcc-mean-Y |
+|tGravityAcc-mean-Z |
+|tGravityAcc-std-X |
+|tGravityAcc-std-Y |
+|tGravityAcc-std-Z |
 |tBodyAccJerk-mean-X|
 |tBodyAccJerk-mean-Y|
 |tBodyAccJerk-mean-Z|
